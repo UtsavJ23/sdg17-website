@@ -52,7 +52,7 @@ export default function GetInvolved() {
               <h3 className="font-semibold text-gray-900">Subscribe to our newsletter</h3>
               <p className="mt-2 text-gray-600">Stay updated on SDG 17 progress and opportunities.</p>
               <p className="mt-4">
-                <a href="#" className="text-sm font-semibold leading-6 text-indigo-600">
+                <a href="/newsletter" className="text-sm font-semibold leading-6 text-indigo-600">
                   Sign up <span aria-hidden="true">&rarr;</span>
                 </a>
               </p>
@@ -64,7 +64,7 @@ export default function GetInvolved() {
               <h3 className="font-semibold text-gray-900">Contact us</h3>
               <p className="mt-2 text-gray-600">Have questions or ideas? We'd love to hear from you.</p>
               <p className="mt-4">
-                <a href="#" className="text-sm font-semibold leading-6 text-indigo-600">
+                <a href="/contact" className="text-sm font-semibold leading-6 text-indigo-600">
                   Get in touch <span aria-hidden="true">&rarr;</span>
                 </a>
               </p>

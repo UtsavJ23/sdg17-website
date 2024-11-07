@@ -1,5 +1,4 @@
 import React from 'react'
-import { ChevronRightIcon } from '@heroicons/react/20/solid'
 
 const successStories = [
   {
@@ -57,7 +56,7 @@ export default function SuccessStories() {
           ))}
         </div>
         <div className="mt-10 text-center">
-          <a href="#" className="text-sm font-semibold leading-6 text-indigo-600">
+          <a href="/all-success-stories" className="text-sm font-semibold leading-6 text-indigo-600">
             View all success stories <span aria-hidden="true">→</span>
           </a>
         </div>
